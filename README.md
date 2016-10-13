@@ -1,4 +1,4 @@
-# Intent1
+# Praktek Intent 1 (startActivity)
 
 **SCREENSHOOT :**
 ![intens1_2](https://cloud.githubusercontent.com/assets/21299876/19258083/cc9b8922-8f29-11e6-93dc-c8510ef3e7e7.JPG)
